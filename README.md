@@ -1,7 +1,15 @@
+# [EasyEngine](https://easyengine.io/)
 
+[![Travis Build Status](https://travis-ci.org/EasyEngine/easyengine.svg)](https://travis-ci.org/EasyEngine/easyengine) [![Join EasyEngine Slack Channel](http://slack.easyengine.io/badge.svg)](http://slack.easyengine.io/)
 
-- Ubuntu
-- Debian
+**Update:** [We are working on next major release (v4) which will be in PHP and based on WP-CLI](https://easyengine.io/blog/easyengine-v4-development-begins/).
+
+EasyEngine (ee) is a python tool, which makes it easy to manage your wordpress sites running on nginx web-server.
+
+**EasyEngine currently supports:**
+
+- Ubuntu 12.04 & 14.04 & 16.04
+- Debian 7 & 8 & 9
 
 **Port Requirements:**
 
@@ -96,6 +104,19 @@ ee site create example.com --php --pagespeed     # create example.com php site w
 | **W3 Total Cache** |  --w3tc       |	--wpsubdir --w3tc    |  --wpsubdomain --w3tc    |
 | **Nginx cache**    |  --wpfc       |  --wpsubdir --wpfc    |  --wpsubdomain --wpfc    |
 | **Redis cache**    |  --wpredis    |  --wpsubdir --wpredis |  --wpsubdomain --wpredis |
+
+## Useful Links
+- [Documentation](https://easyengine.io/docs/)
+- [FAQ](https://easyengine.io/faq/)
+- [Conventions used](https://easyengine.io/wordpress-nginx/tutorials/conventions/)
+
+## Community Guides
+- [Develop and Deploy with EasyEngine + VVV + Wordmove](https://github.com/joeguilmette/ee-vvv-wordmove)
+
+## Donations
+
+[![PayPal-Donate](https://cloud.githubusercontent.com/assets/4115/5297691/c7b50292-7bd7-11e4-987b-2dc21069e756.png)](http://rt.cx/eedonate)
+[![BitCoin-Donate](https://bitpay.com/img/donate-button.svg)](https://bitpay.com/417008/donate)
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
