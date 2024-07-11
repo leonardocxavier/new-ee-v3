@@ -1,15 +1,10 @@
-# [EasyEngine](https://easyengine.io/)
-
-[![Travis Build Status](https://travis-ci.org/EasyEngine/easyengine.svg)](https://travis-ci.org/EasyEngine/easyengine) [![Join EasyEngine Slack Channel](http://slack.easyengine.io/badge.svg)](http://slack.easyengine.io/)
-
-**Update:** [We are working on next major release (v4) which will be in PHP and based on WP-CLI](https://easyengine.io/blog/easyengine-v4-development-begins/).
 
 EasyEngine (ee) is a python tool, which makes it easy to manage your wordpress sites running on nginx web-server.
 
 **EasyEngine currently supports:**
 
-- Ubuntu 12.04 & 14.04 & 16.04
-- Debian 7 & 8 & 9
+- Ubuntu x.x
+- Debian 11+
 
 **Port Requirements:**
 
