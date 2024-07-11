@@ -1,7 +1,5 @@
 
-EasyEngine (ee) is a python tool, which makes it easy to manage your wordpress sites running on nginx web-server.
 
-**EasyEngine currently supports:**
 - Ubuntu
 - Debian
 
