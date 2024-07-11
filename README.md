@@ -99,15 +99,5 @@ ee site create example.com --php --pagespeed     # create example.com php site w
 | **Nginx cache**    |  --wpfc       |  --wpsubdir --wpfc    |  --wpsubdomain --wpfc    |
 | **Redis cache**    |  --wpredis    |  --wpsubdir --wpredis |  --wpsubdomain --wpredis |
 
-## Useful Links
-- [Documentation](https://easyengine.io/docs/)
-- [FAQ](https://easyengine.io/faq/)
-- [Conventions used](https://easyengine.io/wordpress-nginx/tutorials/conventions/)
-
-## Donations
-
-[![PayPal-Donate](https://cloud.githubusercontent.com/assets/4115/5297691/c7b50292-7bd7-11e4-987b-2dc21069e756.png)](http://rt.cx/eedonate)
-[![BitCoin-Donate](https://bitpay.com/img/donate-button.svg)](https://bitpay.com/417008/donate)
-
 ## License
 [MIT](http://opensource.org/licenses/MIT)
