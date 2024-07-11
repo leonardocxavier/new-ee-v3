@@ -104,9 +104,6 @@ ee site create example.com --php --pagespeed     # create example.com php site w
 - [FAQ](https://easyengine.io/faq/)
 - [Conventions used](https://easyengine.io/wordpress-nginx/tutorials/conventions/)
 
-## Community Guides
-- [Develop and Deploy with EasyEngine + VVV + Wordmove](https://github.com/joeguilmette/ee-vvv-wordmove)
-
 ## Donations
 
 [![PayPal-Donate](https://cloud.githubusercontent.com/assets/4115/5297691/c7b50292-7bd7-11e4-987b-2dc21069e756.png)](http://rt.cx/eedonate)
